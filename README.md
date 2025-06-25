@@ -79,17 +79,18 @@ python3 email-test.py
 ![image](https://github.com/user-attachments/assets/21a85f8c-7c93-4792-b7c5-99f0fbd82e60)
 
 1. URL先に飛び，OAuth 2.0 クライアント IDの登録したアカウントを選択する
-![image](https://github.com/user-attachments/assets/3e0997bf-75cf-4282-9077-b2c2ccaae879)
+![458644045-3e0997bf-75cf-4282-9077-b2c2ccaae879](https://github.com/user-attachments/assets/dd2035f4-896d-4472-9cc8-aa26a19a536c)
 
 1. アカウントにアクセス権限を与える
-![image](https://github.com/user-attachments/assets/f10b5450-b5f4-4176-bf99-f1c023627f18)
+![458644268-f10b5450-b5f4-4176-bf99-f1c023627f18](https://github.com/user-attachments/assets/55fb36c1-0d04-4e3f-a29c-e5b257d737ba)
 
 1. 出てきた認証コードをコピーし，貼り付ける
 ![458644403-d5553f1c-08f9-475a-ac9d-9b8e46022774](https://github.com/user-attachments/assets/4a270a0b-1638-4571-b8f4-de97d792931f)
 
 1. Geminiから返信が返ってくる
+
 送信したメール
-![image](https://github.com/user-attachments/assets/29f0c9dc-50a1-4367-b6fc-13087b5701f6)
+![458645716-29f0c9dc-50a1-4367-b6fc-13087b5701f6](https://github.com/user-attachments/assets/ce977a99-02b1-4e37-ac8e-406740331627)
 
 返信されたメール
 ![image](https://github.com/user-attachments/assets/ed939bbb-c975-45be-a373-c5c3817d9f63)
