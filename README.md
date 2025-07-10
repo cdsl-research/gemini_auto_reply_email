@@ -1,6 +1,6 @@
 # gemini_auto_reply_email
 ### 概要
-未読メールを検知し，その未読メールをGeminiが返信を行ってくれるPythonプログラムです．
+Gmailの未読メールを検知し，その未読メールをGeminiが返信を行ってくれるPythonプログラムです．
 
 ### バージョン
 - Ubuntu 24.04.2 LTS
