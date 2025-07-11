@@ -28,8 +28,12 @@ pip install -q -U google-genai
 1. Gemini API Keyの作成
 ![zu3](https://github.com/user-attachments/assets/faf42284-8b77-4e0c-ae62-0823566325d8)
 
-1. credentials.jsonのemail-api-tokenをGmail APIを有効化したプロジェクトのOAuth 2.0 クライアント IDのAPI Keyと置き替える．
-1. reply_content.pyの`client = genai.Client(api_key="{gemini-api-key}")`のgemini-api-keyをGeminiのAPI Keyに置き換える．
+4. credentials.jsonのemail-api-tokenをGmail APIを有効化したプロジェクトのOAuth 2.0 クライアント IDのAPI Keyと置き替える．
+<img width="1107" height="159" alt="image" src="https://github.com/user-attachments/assets/f19ca816-5a84-4ed3-bbd3-aa90f9d2ba91" />
+
+5. reply_content.pyの`client = genai.Client(api_key="{gemini-api-key}")`の`{gemini-api-key}`をGeminiのAPI Keyに置き換える．
+<img width="651" height="219" alt="image" src="https://github.com/user-attachments/assets/ac28a2e4-78de-4203-9745-77c3ef819f0b" />
+
   
 6. プログラムを実行する
 ```
